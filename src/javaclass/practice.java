@@ -1,6 +1,6 @@
-package Rishu;
+package javaclass;
 
-public class opdata {
+public class practice {
     public static void main( String[] args){
         System.out.println("hey this is my practice class");
         String name = "Aditya";

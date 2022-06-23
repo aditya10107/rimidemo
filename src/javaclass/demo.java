@@ -1,6 +1,6 @@
-package Rishu;
+package javaclass;
 
-public class RishabhDemo {
+public class demo {
     public static void main(String[] args ){
         System.out.println("Devloper is Online");
         String name = "Abhi";
