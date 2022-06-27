@@ -1,6 +1,6 @@
 package javaclass;
 
-public class condition_ifelse {
+public class ANDoprator {
 
     public static void main(String[] args) {
 
