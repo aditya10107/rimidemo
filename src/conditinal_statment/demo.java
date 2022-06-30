@@ -1,6 +1,6 @@
-package javaclass;
+package conditinal_statment;
 
-public class javanew {
+public class demo {
     public static void main(String[] args) {
 
         int age = 17;

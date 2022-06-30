@@ -1,4 +1,4 @@
-package javaclass;
+package conditinal_statment;
 
 public class ORoprator {
     public static void main(String[] args) {

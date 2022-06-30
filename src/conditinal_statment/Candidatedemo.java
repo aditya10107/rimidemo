@@ -1,4 +1,4 @@
-package javaclass;
+package conditinal_statment;
 
 public class Candidatedemo {
     public static void main(String[] args) {
@@ -14,7 +14,6 @@ public class Candidatedemo {
                 System.out.println("person is eligible for voting");
             }
             else {
-                System.out.println("person not eligible for voting");
-            }
+                System.out.println("person not eligible for voting");}
     }}
 
